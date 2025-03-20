@@ -3,6 +3,7 @@ public class Main {
         System.out.println("이승창");
         World.run();
         World.run2();
+        Hello.run();
     }
 
 }
